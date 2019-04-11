@@ -1,0 +1,17 @@
+android/
+desktop/
+gradle/
+ios/
+build/
+out/
+*.ipr
+*.iws
+*.xml
+*.gradle
+*.properties
+*.bat
+gradlew
+*.iml
+
+
+
